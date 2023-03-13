@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 6: Monday, March 13, 2023
+
+**Today's Progress:** Implemented the base functionality for the Hangman app, added some styling. Need to ensure it's responsive, as well as add the option to play using keyboard input.
+
+**Thoughts:** Had a weird bug where a change to a `Set` in state wouldn't cause the children to update until a hot reload? Fixed by using an array instead, but will have to look if it's intended or if I messed something up.
+
+**Link to work:** [Hangman](https://hangman-two-psi.vercel.app/)
+
 ### Days 4-5: March 10-11, 2023
 
 **Today's Progress**: Polish up the app, fix known bugs, all that's left is to address design problems in mobile (it's functional and responsive, but the logo looks a bit weird and the "copied" text appears somewhere offscreen.
