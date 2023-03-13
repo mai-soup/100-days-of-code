@@ -1,30 +1,23 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Days 4-5: March 10-11, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Polish up the app, fix known bugs, all that's left is to address design problems in mobile (it's functional and responsive, but the logo looks a bit weird and the "copied" text appears somewhere offscreen.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** React is actually a lot more fun to work with than I imagined it would be.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Colour Palette App](https://react-colour-picker.vercel.app)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 3: March 9, 2023
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Pulled a 30-hour study session to finish the bootcamp, keep working on app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Going to sleep now.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Colour Palette App](https://react-colour-picker.vercel.app)
 
+### Days 1-2: March 7-8, 2023
 
-### Day 1: June 27, Monday
+**Today's Progress**: Keep going through the React bootcamp, work on colour palette app.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link to work:** [Colour Palette App](https://react-colour-picker.vercel.app)
