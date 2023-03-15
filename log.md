@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 7: Tuesday, March 14, 2023
+
+**Today's Progress:** Attempted to make the Hangman game's design responsive so the game is all visible on smaller screen sizes. Ran into a problem with the image refusing to shrink past its original size, spent a few hours trying to find a bug in my code, since with a `div` the flexbox worked properly. Turns out I hadn't exactly made a mistake in my code, I just wasn't aware of [a default setting in flexbox regarding minimum size](https://stackoverflow.com/a/36247448). I couldn't find this information initially because I was focused on the `img` element specifically and not on minimum size in flexbox in general.
+
+**Thoughts:** Debugging is a lot more difficult without a more senior dev to ask for an opinion after hitting a wall doing it alone. I tried asking for help on a Discord community after a couple hours of fiddling around, but received no response - can't figure out why. Wish there was someone I could text directly when running into things like this, but oh well. Google and extra time spent will have to do for now.
+
+**Link to work:** [Hangman](https://hangman-two-psi.vercel.app/)
+
 ### Day 6: Monday, March 13, 2023
 
 **Today's Progress:** Implemented the base functionality for the Hangman app, added some styling. Need to ensure it's responsive, as well as add the option to play using keyboard input.
