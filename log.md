@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 9: Thursday, March 16, 2023
+
+**Today's Progress:** Finished the interactive rating component, looked over the next Frontend Mentor project I'll be doing, fixed the mobile `100vh` issue (my solution - using`dvh`, though from what I saw, using JavaScript to calculate the visible space is also a common option). Oh, also made those bash aliases I talked about yesterday and updated my dotfiles. Spent a bit more time on life admin stuff, so didn't get a massive amount of coding done.
+
+**Thoughts:** Set up Figma on my machine and it looks scary but fun. Can't wait to use it more tomorrow.
+
+**Link to work:** [Interactive Rating Component](https://interactive-rating-component-mai-soup.vercel.app/)
+
 ### Day 8: Wednesday, March 15, 2023
 
 **Today's Progress:** Spent most of the day applying for jobs and revising my CV now that I am out of university to better reflect my achievements as a developer, not academic ones. Nevertheless, did a few hours of coding - signed up to Frontend Mentor, completed one challenge and started another.
