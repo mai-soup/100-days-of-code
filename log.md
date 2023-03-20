@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Days 10-11: Friday, March 17, and Saturday, March 18, 2023
+
+**Today's Progress:** Read up on JavaScript, did a few quizzes, set up Neovim on my old ThinkPad so I can keep coding while on the go (which I will have to the next week).
+
+**Thoughts:** Vim is actually a _lot_ less scary than vi, which I had tried before.
+
 ### Day 9: Thursday, March 16, 2023
 
 **Today's Progress:** Finished the interactive rating component, looked over the next Frontend Mentor project I'll be doing, fixed the mobile `100vh` issue (my solution - using`dvh`, though from what I saw, using JavaScript to calculate the visible space is also a common option). Oh, also made those bash aliases I talked about yesterday and updated my dotfiles. Spent a bit more time on life admin stuff, so didn't get a massive amount of coding done.
