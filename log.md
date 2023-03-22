@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 13: Tuesday, March 21, 2023
+
+**Today's Progress:** Worked more on the single-page portfolio and fixed some issues with z-index, spacing. Did some design work for my own portfolio.
+
+**Link to work:** [Single Page Developer Portfolio](https://single-page-developer-portfolio-jade.vercel.app/)
+
+### Day 12: Monday, March 20, 2023
+
+**Today's Progress:** Continued work on the single-page developer portfolio, started learning Electron in order to finally finish a small project that's been half-finished for a couple years now.
+
+**Thoughts:** Learned a lot today, including about how the `hr` tag is now defined in semantic terms! I remember it being taught as a visual separator when I started learning HTML as a child, only learned of the difference while browsing MDN docs and asking for advice on Slack. Just goes to show that even for the things I thought I knew, I might still have to catch up with some changes.
+
+**Link to work:** [Single Page Developer Portfolio](https://single-page-developer-portfolio-jade.vercel.app/)
+
 ### Days 10-11: Friday, March 17, and Saturday, March 18, 2023
 
 **Today's Progress:** Read up on JavaScript, did a few quizzes, set up Neovim on my old ThinkPad so I can keep coding while on the go (which I will have to the next week).
