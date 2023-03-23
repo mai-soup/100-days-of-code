@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+## Day 14: Wednesday, March 22, 2023
+
+**Today's Progress:** Continued with Electron, spent a large portion of the day trying to understand why the sample code in _Electron in Action_ didn't work with the newest versions of the packages (and the sample code on GitHub didn't even launch). Managed to get it working by the end of the day, discovered that now you have to use `preload` scripts and `contextBridge` to access the Node API from inside an Electron renderer.
+
+**Thoughts:** I really do wish that when textbook authors say they are committed to keeping the code up to date and they'll post errata in READMEs they.... would actually at least make a README in the repo. And keep the code up to date, instead of the first and last commit being 6 years ago. Oh well.
+
 ### Day 13: Tuesday, March 21, 2023
 
 **Today's Progress:** Worked more on the single-page portfolio and fixed some issues with z-index, spacing. Did some design work for my own portfolio.
