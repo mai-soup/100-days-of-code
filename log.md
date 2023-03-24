@@ -8,12 +8,6 @@
 
 **Link to work:** [Portfolio](https://portfolio-mai-soup.vercel.app/)
 
-### Day 13: Tuesday, March 21, 2023
-
-**Today's Progress:** Worked more on the single-page portfolio and fixed some issues with z-index, spacing. Did some design work for my own portfolio.
-
-**Link to work:** [Single Page Developer Portfolio](https://single-page-developer-portfolio-jade.vercel.app/)
-
 ### Day 14: Wednesday, March 22, 2023
 
 **Today's Progress:** Continued with Electron, spent a large portion of the day trying to understand why the sample code in _Electron in Action_ didn't work with the newest versions of the packages (and the sample code on GitHub didn't even launch). Managed to get it working by the end of the day, discovered that now you have to use `preload` scripts and `contextBridge` to access the Node API from inside an Electron renderer.
