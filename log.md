@@ -1,5 +1,19 @@
 # 100 Days Of Code - Log
 
+### Day 15: Thursday, March 23, 2023
+
+**Today's Progress:** Made a bunch of progress on the revamped version of my own portfolio page! Figuring out form validation + manually sending POST requests in React.
+
+**Thoughts:** I feel like one of the things I could do to really make it feel fun to scroll through is add tiny animations here and there. Trying to figure out what colour I want for button hover and form focus effect - I don't think I like the blue I'm using at the moment after all. Smoothing out jumps to the contacts section might be another thing to consider, as well as adding a hover effect for the social buttons. Will seek out some more inspiration regarding this and advice from people more experienced in design than I am.
+
+**Link to work:** [Portfolio](https://portfolio-mai-soup.vercel.app/)
+
+### Day 13: Tuesday, March 21, 2023
+
+**Today's Progress:** Worked more on the single-page portfolio and fixed some issues with z-index, spacing. Did some design work for my own portfolio.
+
+**Link to work:** [Single Page Developer Portfolio](https://single-page-developer-portfolio-jade.vercel.app/)
+
 ### Day 14: Wednesday, March 22, 2023
 
 **Today's Progress:** Continued with Electron, spent a large portion of the day trying to understand why the sample code in _Electron in Action_ didn't work with the newest versions of the packages (and the sample code on GitHub didn't even launch). Managed to get it working by the end of the day, discovered that now you have to use `preload` scripts and `contextBridge` to access the Node API from inside an Electron renderer.
