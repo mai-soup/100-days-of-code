@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 17: Saturday, March 25, 2023
+
+**Today's Progress:** Spent a few hours studying Electron (read: trying to figure out how to do the things my textbook wants me to do with the newest version of Electron). Finally got the "bookmarker" app to work, so now moving onto the markdown editor project.
+
+**Thoughts:** Decided to call it Mark. Upon a quick search I couldn't find an editor that already exists with that name, though it might just be because of the overlap of search terms. Oh well. Hope it's alright for a practice project.
+
+**Link to work:** [Mark](https://github.com/mai-soup/mark)
+
+### Day 16: Friday, March 24, 2023
+
+**Today's Progress:** Finished my portfolio site, added smooth scroll and made the hover effect darker red instead of blue. Overall very pleased, used the rest of the day to revamp my CV design (to not have much of a design since now I have a portfolio to show off) and study Electron as well as for my Azure exam.
+
+**Thoughts:** As I figure out various tricks, CSS feels more and more intuitive.
+
+**Link to work:** [Portfolio](https://portfolio-mai-soup.vercel.app/)
+
 ### Day 15: Thursday, March 23, 2023
 
 **Today's Progress:** Made a bunch of progress on the revamped version of my own portfolio page! Figuring out form validation + manually sending POST requests in React.
