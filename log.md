@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 19: Tuesday, March 28, 2023
+
+**Today's Progress:** Realised that Discord has switched to an SDK for the rich presence instead of the RPC API, and now it's a lot more difficult to just make a Node app integrated with it. Oh well. Since I can't be spending too much time on that, Electron is on the backburner now, focusing on other stuff. Started making a "project details" page for my portfolio.
+
+**Link to work:** [Dev branch of my portfolio](https://github.com/mai-soup/portfolio/tree/development)
+
+### Day 18: Monday, March 27, 2023
+
+**Today's Progress:** More work on Electron, more work on my portfolio (also got a custom domain name for it!). Got file opening to work in Mark.
+
+**Link to work:** [Mark](https://github.com/mai-soup/mark)
+
 ### Day 17: Saturday, March 25, 2023
 
 **Today's Progress:** Spent a few hours studying Electron (read: trying to figure out how to do the things my textbook wants me to do with the newest version of Electron). Finally got the "bookmarker" app to work, so now moving onto the markdown editor project.
