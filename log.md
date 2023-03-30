@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 21: Thursday, March 30, 2023
+
+**Today's progress:** Finished the "project details" page, though mainly focused on the content.
+
+**Link to work:** [Portfolio](https://maijsgarais.com/)
+
+### Day 20: Wednesday, March 29, 2023
+
+**Today's progress:** Continued with the "project details" page, particularly the responsive layout.
+
+**Link to work:** [Portfolio](https://maijsgarais.com/)
+
 ### Day 19: Tuesday, March 28, 2023
 
 **Today's Progress:** Realised that Discord has switched to an SDK for the rich presence instead of the RPC API, and now it's a lot more difficult to just make a Node app integrated with it. Oh well. Since I can't be spending too much time on that, Electron is on the backburner now, focusing on other stuff. Started making a "project details" page for my portfolio.
