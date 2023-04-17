@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Days 22-39 (up until Apr 17, 2023)
+
+**Progress:** Made an audio player app using React that queries the ACNH API to play the appropriate background music for the user's timezone. Also started a fullstack MERN project called MeetPoint, where users will be able to create groups, organise meetups, and find meetups happening near them. Making good progress on it, got signup/login/logout working. In the process, learned a lot about custom hooks, sending requests from the frontend, state management, etc.
+
+**Link to work:** [ACNH Player](https://acnh-player.vercel.app/), [MeetPoint code](https://github.com/mai-soup/meetpoint)
+
 ### Day 21: Thursday, March 30, 2023
 
 **Today's progress:** Finished the "project details" page, though mainly focused on the content.
