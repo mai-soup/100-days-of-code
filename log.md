@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 40: Saturday, April 29, 2023
+
+**Progress:** Removed some unused fields from the forms, updated the validation.
+
+### Break while trying to set up a CD pipeline
+
+**Progress:** (Not counting this towards the 100 days as the coding was very minimal) Spent an awful lot of time trying to understand how AWS works (more specifically the permissions, which took up most of said time), trying to get Heroku to accept my payment cards, and settled on using DigitalOcean in the end, since that was.... at least working.
+
 ### Days 22-39 (up until Apr 17, 2023)
 
 **Progress:** Made an audio player app using React that queries the ACNH API to play the appropriate background music for the user's timezone. Also started a fullstack MERN project called MeetPoint, where users will be able to create groups, organise meetups, and find meetups happening near them. Making good progress on it, got signup/login/logout working. In the process, learned a lot about custom hooks, sending requests from the frontend, state management, etc.
