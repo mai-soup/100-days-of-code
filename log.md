@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Days 41-42: May 1 & 2, 2023
+
+**Progress:** Made a few small features on the app, but most notably started writing tests and created a CI pipeline to ensure all the tests pass before mergin a pull request into the master branch!
+
+**Thoughts:** I need to learn more about testing the frontend, as I've only ever done unit tests for backend logic.
+
+**Link to work:** [MeetPoint code](https://github.com/maijs-garais/meetpoint)
+
 ### Day 40: Saturday, April 29, 2023
 
 **Progress:** Removed some unused fields from the forms, updated the validation.
